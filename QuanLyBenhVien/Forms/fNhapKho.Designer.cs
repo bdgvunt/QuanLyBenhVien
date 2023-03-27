@@ -182,7 +182,7 @@
             this.lbDienMaPhieu.AutoSize = true;
             this.lbDienMaPhieu.Location = new System.Drawing.Point(77, 56);
             this.lbDienMaPhieu.Name = "lbDienMaPhieu";
-            this.lbDienMaPhieu.Size = new System.Drawing.Size(91, 16);
+            this.lbDienMaPhieu.Size = new System.Drawing.Size(104, 17);
             this.lbDienMaPhieu.TabIndex = 11;
             this.lbDienMaPhieu.Text = "____________";
             // 
@@ -191,7 +191,7 @@
             this.lbMaHoaDon.AutoSize = true;
             this.lbMaHoaDon.Location = new System.Drawing.Point(12, 87);
             this.lbMaHoaDon.Name = "lbMaHoaDon";
-            this.lbMaHoaDon.Size = new System.Drawing.Size(82, 16);
+            this.lbMaHoaDon.Size = new System.Drawing.Size(87, 17);
             this.lbMaHoaDon.TabIndex = 9;
             this.lbMaHoaDon.Text = "Mã Hóa Đơn";
             // 
@@ -200,7 +200,7 @@
             this.lbNhaCungCap.AutoSize = true;
             this.lbNhaCungCap.Location = new System.Drawing.Point(4, 163);
             this.lbNhaCungCap.Name = "lbNhaCungCap";
-            this.lbNhaCungCap.Size = new System.Drawing.Size(90, 16);
+            this.lbNhaCungCap.Size = new System.Drawing.Size(96, 17);
             this.lbNhaCungCap.TabIndex = 8;
             this.lbNhaCungCap.Text = "Nhà cung cấp";
             // 
@@ -209,7 +209,7 @@
             this.lbGhiChu.AutoSize = true;
             this.lbGhiChu.Location = new System.Drawing.Point(4, 189);
             this.lbGhiChu.Name = "lbGhiChu";
-            this.lbGhiChu.Size = new System.Drawing.Size(53, 16);
+            this.lbGhiChu.Size = new System.Drawing.Size(59, 17);
             this.lbGhiChu.TabIndex = 7;
             this.lbGhiChu.Text = "Ghi Chú";
             // 
@@ -218,7 +218,7 @@
             this.lbNgayNhapPhieu.AutoSize = true;
             this.lbNgayNhapPhieu.Location = new System.Drawing.Point(3, 112);
             this.lbNgayNhapPhieu.Name = "lbNgayNhapPhieu";
-            this.lbNgayNhapPhieu.Size = new System.Drawing.Size(98, 16);
+            this.lbNgayNhapPhieu.Size = new System.Drawing.Size(103, 17);
             this.lbNgayNhapPhieu.TabIndex = 5;
             this.lbNgayNhapPhieu.Text = "Ngày lập phiếu";
             // 
@@ -227,7 +227,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(4, 137);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(72, 16);
+            this.label3.Size = new System.Drawing.Size(77, 17);
             this.label3.TabIndex = 4;
             this.label3.Text = "Ngày nhận";
             // 
@@ -236,7 +236,7 @@
             this.lbMaPhieu.AutoSize = true;
             this.lbMaPhieu.Location = new System.Drawing.Point(4, 56);
             this.lbMaPhieu.Name = "lbMaPhieu";
-            this.lbMaPhieu.Size = new System.Drawing.Size(62, 16);
+            this.lbMaPhieu.Size = new System.Drawing.Size(66, 17);
             this.lbMaPhieu.TabIndex = 3;
             this.lbMaPhieu.Text = "Mã phiếu";
             // 
@@ -359,6 +359,7 @@
             this.dgvChiTietPhieuNhap.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.dgvChiTietPhieuNhap.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvChiTietPhieuNhap.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvChiTietPhieuNhap.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.cId,
@@ -384,7 +385,6 @@
             this.cId.MinimumWidth = 6;
             this.cId.Name = "cId";
             this.cId.Visible = false;
-            this.cId.Width = 125;
             // 
             // clMaThuoc
             // 
@@ -394,7 +394,6 @@
             this.clMaThuoc.Name = "clMaThuoc";
             this.clMaThuoc.Resizable = System.Windows.Forms.DataGridViewTriState.True;
             this.clMaThuoc.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.clMaThuoc.Width = 125;
             // 
             // clSoLo
             // 
@@ -402,7 +401,6 @@
             this.clSoLo.HeaderText = "Số lô";
             this.clSoLo.MinimumWidth = 6;
             this.clSoLo.Name = "clSoLo";
-            this.clSoLo.Width = 125;
             // 
             // clHanDung
             // 
@@ -410,7 +408,6 @@
             this.clHanDung.HeaderText = "Hạn Dùng";
             this.clHanDung.MinimumWidth = 6;
             this.clHanDung.Name = "clHanDung";
-            this.clHanDung.Width = 125;
             // 
             // clSoLuong
             // 
@@ -418,7 +415,6 @@
             this.clSoLuong.HeaderText = "Số Lượng";
             this.clSoLuong.MinimumWidth = 6;
             this.clSoLuong.Name = "clSoLuong";
-            this.clSoLuong.Width = 125;
             // 
             // clDonGia
             // 
@@ -426,7 +422,6 @@
             this.clDonGia.HeaderText = "Đơn Giá";
             this.clDonGia.MinimumWidth = 6;
             this.clDonGia.Name = "clDonGia";
-            this.clDonGia.Width = 125;
             // 
             // clGhiChu
             // 
@@ -434,14 +429,13 @@
             this.clGhiChu.HeaderText = "Ghi Chú";
             this.clGhiChu.MinimumWidth = 6;
             this.clGhiChu.Name = "clGhiChu";
-            this.clGhiChu.Width = 125;
             // 
             // clTrangThaiId
             // 
             this.clTrangThaiId.HeaderText = "Trạng Thái Id";
             this.clTrangThaiId.MinimumWidth = 6;
             this.clTrangThaiId.Name = "clTrangThaiId";
-            this.clTrangThaiId.Width = 125;
+            this.clTrangThaiId.Visible = false;
             // 
             // fNhapKho
             // 
@@ -493,6 +487,13 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.DataGridView dgvChiTietPhieuNhap;
         private System.Windows.Forms.Label lbNhaCungCap;
+        private System.Windows.Forms.TextBox tbNhaCungCap;
+        private System.Windows.Forms.DataGridViewTextBoxColumn cId1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clSoHoaDon;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clTinhTrang;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clNgayLap;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clNhaCungCap;
+        private System.Windows.Forms.Button btNhapKho;
         private System.Windows.Forms.DataGridViewTextBoxColumn cId;
         private System.Windows.Forms.DataGridViewComboBoxColumn clMaThuoc;
         private System.Windows.Forms.DataGridViewTextBoxColumn clSoLo;
@@ -501,12 +502,5 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn clDonGia;
         private System.Windows.Forms.DataGridViewTextBoxColumn clGhiChu;
         private System.Windows.Forms.DataGridViewTextBoxColumn clTrangThaiId;
-        private System.Windows.Forms.TextBox tbNhaCungCap;
-        private System.Windows.Forms.DataGridViewTextBoxColumn cId1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn clSoHoaDon;
-        private System.Windows.Forms.DataGridViewTextBoxColumn clTinhTrang;
-        private System.Windows.Forms.DataGridViewTextBoxColumn clNgayLap;
-        private System.Windows.Forms.DataGridViewTextBoxColumn clNhaCungCap;
-        private System.Windows.Forms.Button btNhapKho;
     }
 }

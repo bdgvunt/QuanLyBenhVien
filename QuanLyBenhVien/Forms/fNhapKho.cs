@@ -16,6 +16,10 @@ namespace QuanLyBenhVien.Forms
     {
         decimal PhieuNhapId;
         PhieuNhap PhieuNhapHT;
+
+        bool loaded = false;
+
+
         public fNhapKho()
         {
             InitializeComponent();
@@ -41,7 +45,10 @@ namespace QuanLyBenhVien.Forms
             clMaThuoc.ValueMember = "Id";
 
             dgvChiTietPhieuNhap.AutoGenerateColumns = false;
+
             LoadDSPhieu();
+
+            loaded = true;
         }
         private void LoadDS()
         {
@@ -51,7 +58,10 @@ namespace QuanLyBenhVien.Forms
         {
             try
             {
-                if (PhieuNhapId == null)
+
+                if (loaded == false) return;
+
+                if (PhieuNhapId == 0)
                 {
                     MessageBox.Show("Chưa Nhập Phiếu");
                     return;
@@ -123,14 +133,22 @@ namespace QuanLyBenhVien.Forms
 
         private void dgvDanhSachPhieu_SelectionChanged(object sender, EventArgs e)
         {
-             PhieuNhapHT = new PhieuNhap((decimal.Parse(dgvDanhSachPhieu.Rows[dgvDanhSachPhieu.CurrentCell.RowIndex].Cells["cId1"].Value.ToString())));
-            tbMaHoaDon.Text = PhieuNhapHT.MaHoaDon;
-            tbNhaCungCap.Text = PhieuNhapHT.NhaCungCap;
-            tbGhiChu.Text = PhieuNhapHT.GhiChu;
-            dtpNgayLapPhieu.Value = PhieuNhapHT.NgayLap;
-            PhieuNhapId = PhieuNhapHT.Id;
-            LoadDS();
+            try
+            {
 
+
+                PhieuNhapHT = new PhieuNhap((decimal.Parse(dgvDanhSachPhieu.Rows[dgvDanhSachPhieu.CurrentCell.RowIndex].Cells["cId1"].Value.ToString())));
+                tbMaHoaDon.Text = PhieuNhapHT.MaHoaDon;
+                tbNhaCungCap.Text = PhieuNhapHT.NhaCungCap;
+                tbGhiChu.Text = PhieuNhapHT.GhiChu;
+                dtpNgayLapPhieu.Value = PhieuNhapHT.NgayLap;
+                PhieuNhapId = PhieuNhapHT.Id;
+                LoadDS();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
         }
 
         private void btEdit_Click(object sender, EventArgs e)
