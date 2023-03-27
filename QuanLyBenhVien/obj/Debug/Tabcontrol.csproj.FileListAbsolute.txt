@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\bin\Debug\Tabcontrol.exe.config
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\bin\Debug\Tabcontrol.exe
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\bin\Debug\Tabcontrol.pdb
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.FrmMain.resources
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.exe
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.pdb
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.Form1.resources
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.Form2.resources
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.Form3.resources
+C:\Users\Administrator\Desktop\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.Form4.resources
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\bin\Debug\Tabcontrol.exe.config
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\bin\Debug\Tabcontrol.exe
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\bin\Debug\Tabcontrol.pdb
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.csprojAssemblyReference.cache
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.Form1.resources
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.Form2.resources
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.Form3.resources
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.Form4.resources
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.FrmMain.resources
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.Properties.Resources.resources
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.csproj.GenerateResource.cache
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.exe
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\Tabcontrol.pdb

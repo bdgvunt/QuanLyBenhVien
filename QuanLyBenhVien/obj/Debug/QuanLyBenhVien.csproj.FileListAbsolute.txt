@@ -1,0 +1,171 @@
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\bin\Debug\QuanLyBenhVien.exe
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\QuanLyBenhVien.exe
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\QuanLyBenhVien.FrmMain.resources
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\QuanLyBenhVien.Form1.resources
+C:\Users\Nguyen Trung Vu\Downloads\Tabcontrol\Tabcontrol\Tabcontrol\obj\Debug\QuanLyBenhVien.Form2.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form1.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form2.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FrmMain.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fLogin.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fTiepNhan.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fKhamBenh.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmClass.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojAssemblyReference.cache
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fKhamBenh.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fLogin.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form1.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form2.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmClass.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FrmMain.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fTiepNhan.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (3)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fKhamBenh.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fLogin.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form1.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form2.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmClass.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FrmMain.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fTiepNhan.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojAssemblyReference.cache
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fKhamBenh.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fLogin.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form1.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form2.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmClass.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FrmMain.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fTiepNhan.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojAssemblyReference.cache
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fKhamBenh.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fLogin.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form1.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form2.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmClass.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FrmMain.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fTiepNhan.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fLoaiKham.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fKhamBenh.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fLoaiKham.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fLogin.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form1.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form2.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmClass.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FrmMain.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fTiepNhan.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fPhongKham.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fDichVu.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fNhanVien.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fDonViTinh.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fDanToc.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fQuocTich.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csprojAssemblyReference.cache
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fDanToc.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fDichVu.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fDonViTinh.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fKhamBenh.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fLoaiKham.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fLogin.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fNhanVien.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form1.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form2.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fThanhToanVienPhi.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fPhongKham.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fQuocTich.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmClass.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FrmMain.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fTiepNhan.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fVienPhi.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\Nguyen Trung Vu\Desktop\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fDanToc.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fDichVu.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fDonViTinh.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fKhamBenh.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fLoaiKham.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fLogin.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fNhanVien.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form1.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Form2.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fNhapKho.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fThanhToanVienPhi.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fPhongKham.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fQuocTich.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmClass.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FrmMain.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.fTiepNhan.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fVienPhi.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\ACER-PC\Downloads\QuanLyBenhVien (5)\QuanLyBenhVien (5)\QuanLyBenhVien (4) (1)\QuanLyBenhVien (4)\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Forms.fXuatKho.resources
